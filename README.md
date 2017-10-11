@@ -5,3 +5,6 @@
 
 ## 激活函数
 1. [26种神经网络激活函数可视化](https://www.jiqizhixin.com/articles/2017-10-10-3)
+
+## 调参
+1. [深度学习调参有哪些技巧？](https://www.zhihu.com/question/25097993/answer/153674495)
