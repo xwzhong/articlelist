@@ -21,3 +21,4 @@
 
 ## math
 1. [为什么KL-divergence 可以用来衡量两个概率分布的不相似性？](http://blog.csdn.net/zhaoyawei09/article/details/52434405)
+2. [K-L散度（相对熵）总结](http://blog.csdn.net/code_caq/article/details/71150855)
