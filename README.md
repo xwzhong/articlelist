@@ -4,9 +4,9 @@
 3. [比Momentum更快：揭开Nesterov Accelerated Gradient的真面目](http://dudu.zhihu.com/story/8868047)
 
 ## 激活函数
-1. [26种神经网络激活函数可视化](https://www.jiqizhixin.com/articles/2017-10-10-3)
-2. [谷歌大脑提出新型激活函数Swish惹争议：可直接替换并优于ReLU？（附机器之心测试）](https://www.jiqizhixin.com/articles/2017-10-21-4)
-3. [一文概览深度学习中的激活函数](https://www.jiqizhixin.com/articles/2017-11-02-26)
+1. [一文概览深度学习中的激活函数](https://www.jiqizhixin.com/articles/2017-11-02-26)
+2. [26种神经网络激活函数可视化](https://www.jiqizhixin.com/articles/2017-10-10-3)
+3. [谷歌大脑提出新型激活函数Swish惹争议：可直接替换并优于ReLU？（附机器之心测试）](https://www.jiqizhixin.com/articles/2017-10-21-4)
 
 ## 调参
 1. [深度学习调参有哪些技巧？](https://www.zhihu.com/question/25097993/answer/153674495)
