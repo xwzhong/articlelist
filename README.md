@@ -19,6 +19,7 @@
 
 ## embedding
 1. [词嵌入2017年进展全面梳理：趋势和未来方向](https://www.jiqizhixin.com/articles/2017-10-25-2)
+2. [如何用深度学习处理结构化数据？](https://www.jiqizhixin.com/articles/2017-12-04-7)
 
 ## math
 1. [为什么KL-divergence 可以用来衡量两个概率分布的不相似性？](http://blog.csdn.net/zhaoyawei09/article/details/52434405)
