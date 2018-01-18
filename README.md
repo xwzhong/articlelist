@@ -21,6 +21,7 @@
 1. [Active Learning: 一个降低深度学习时间，空间，经济成本的解决方案](https://www.jiqizhixin.com/articles/2017-09-21-12)
 2. [一文概览深度学习中的五大正则化方法和七大优化策略](https://www.jiqizhixin.com/articles/2017-12-20)
 3. [机器学习系统性能不尽人意？吴恩达教你如何选择改进策略](https://www.jiqizhixin.com/articles/2017-12-25-8)
+4. [十倍模型计算时间仅增20%：OpenAI开源梯度替换插件](https://www.jiqizhixin.com/articles/2018-01-16-5)
 
 ## embedding
 1. [词嵌入2017年进展全面梳理：趋势和未来方向](https://www.jiqizhixin.com/articles/2017-10-25-2)
