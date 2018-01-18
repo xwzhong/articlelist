@@ -1,5 +1,6 @@
 ## news
 1. [打响新年第一炮，Gary Marcus提出对深度学习的系统性批判](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650735630&idx=1&sn=5840c3e9bed487da3a9080d482fcc58e&scene=21#wechat_redirect)
+2. [「我是可微分编程的粉丝」，Gary Marcus再回应深度学习批判言论](https://www.jiqizhixin.com/articles/2018-01-15-4)
 
 ## momentum
 1. [【梯度下降法】二：冲量（momentum）的原理与Python实现](http://www.jianshu.com/p/58b3fe300ecb)
