@@ -2,6 +2,9 @@
 1. [打响新年第一炮，Gary Marcus提出对深度学习的系统性批判](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650735630&idx=1&sn=5840c3e9bed487da3a9080d482fcc58e&scene=21#wechat_redirect)
 2. [「我是可微分编程的粉丝」，Gary Marcus再回应深度学习批判言论](https://www.jiqizhixin.com/articles/2018-01-15-4)
 
+## retrieve
+1. [如何在Python中快速进行语料库搜索：近似最近邻算法](https://www.jiqizhixin.com/articles/2018-01-24-3)
+
 ## classification
 1. [就喜欢看综述论文：情感分析中的深度学习](https://www.jiqizhixin.com/articles/Deep-Learning-for-Sentiment-Analysis)
 
