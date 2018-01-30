@@ -20,6 +20,7 @@
 
 ## 调参
 1. [深度学习调参有哪些技巧？](https://www.zhihu.com/question/25097993/answer/153674495)
+2. [ICML 2017最佳论文：为什么你改了一个参数，模型预测率突然提高了|分享总结](https://www.leiphone.com/news/201708/Hbjv7EcuXTYQlLk2.html)
 
 ## Neural Networks
 1. [CS231n Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/neural-networks-3/)
