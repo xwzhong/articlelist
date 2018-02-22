@@ -4,6 +4,7 @@
 
 ## 分词
 1. [分词，新词发现和热词发现](http://blog.csdn.net/smartcat2010/article/details/77883735)
+2. [有哪些比较好的新词发现方案？](https://www.zhihu.com/question/19650548)
 
 ## tools
 1. [教程 | 如何在TensorFlow中高效使用数据集](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9748800803704015829%22%7D&n_type=1&p_from=3)
