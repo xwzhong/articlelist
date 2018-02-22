@@ -2,6 +2,9 @@
 1. [打响新年第一炮，Gary Marcus提出对深度学习的系统性批判](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650735630&idx=1&sn=5840c3e9bed487da3a9080d482fcc58e&scene=21#wechat_redirect)
 2. [「我是可微分编程的粉丝」，Gary Marcus再回应深度学习批判言论](https://www.jiqizhixin.com/articles/2018-01-15-4)
 
+## 分词
+1. [分词，新词发现和热词发现](http://blog.csdn.net/smartcat2010/article/details/77883735)
+
 ## tools
 1. [教程 | 如何在TensorFlow中高效使用数据集](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9748800803704015829%22%7D&n_type=1&p_from=3)
 
