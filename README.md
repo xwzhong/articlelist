@@ -9,6 +9,7 @@
 ## tools
 1. [教程 | 如何在TensorFlow中高效使用数据集](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9748800803704015829%22%7D&n_type=1&p_from=3)
 2. [5种快速易用的Python Matplotlib数据可视化方法](https://www.jiqizhixin.com/articles/031310)
+3. [如何在TensorFlow中高效使用数据集](https://www.jiqizhixin.com/articles/03137)
 
 ## retrieve
 1. [如何在Python中快速进行语料库搜索：近似最近邻算法](https://www.jiqizhixin.com/articles/2018-01-24-3)
@@ -52,3 +53,6 @@
 
 ## 推荐系统
 1. [36氪首发 | 今日头条推荐算法原理全文详解](http://36kr.com/p/5114077.html)
+2. [Netflix个人化推荐系统，让每个用戶看到不一样的电影海报](https://www.jiqizhixin.com/articles/2018-03-12-8)
+
+
