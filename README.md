@@ -50,6 +50,7 @@
 1. [为什么KL-divergence 可以用来衡量两个概率分布的不相似性？](http://blog.csdn.net/zhaoyawei09/article/details/52434405)
 2. [K-L散度（相对熵）总结](http://blog.csdn.net/code_caq/article/details/71150855)
 3. [如何理解KL散度的不对称性](https://www.jiqizhixin.com/articles/0224)
+4. [从七桥问题开始：全面介绍图论及其应用](https://www.jiqizhixin.com/articles/2018-03-11-2)
 
 ## 推荐系统
 1. [36氪首发 | 今日头条推荐算法原理全文详解](http://36kr.com/p/5114077.html)
