@@ -37,6 +37,7 @@
 ## Neural Networks
 1. [CS231n Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/neural-networks-3/)
 2. [专访MIT教授Tomaso Poggio：表达、优化与泛化——数学视角里的深度学习](https://www.jiqizhixin.com/articles/tomaso-poggio)
+3. [DeepMind提出神经元删除法：通过理解每个神经元来理解深度学习](https://www.jiqizhixin.com/articles/032302)
 
 ## strategies for optimizing SGD
 1. [Active Learning: 一个降低深度学习时间，空间，经济成本的解决方案](https://www.jiqizhixin.com/articles/2017-09-21-12)
