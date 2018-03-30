@@ -18,6 +18,7 @@
 ## classification
 1. [就喜欢看综述论文：情感分析中的深度学习](https://www.jiqizhixin.com/articles/Deep-Learning-for-Sentiment-Analysis)
 2. [文本情感分析：让机器读懂人类情感](https://www.jiqizhixin.com/articles/2016-07-02)
+3. [How to improve classification of small texts](https://stackoverflow.com/questions/34513634/how-to-improve-classification-of-small-texts)
 
 ## momentum
 1. [【梯度下降法】二：冲量（momentum）的原理与Python实现](http://www.jianshu.com/p/58b3fe300ecb)
