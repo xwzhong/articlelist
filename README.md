@@ -1,6 +1,7 @@
 ## news
 1. [打响新年第一炮，Gary Marcus提出对深度学习的系统性批判](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650735630&idx=1&sn=5840c3e9bed487da3a9080d482fcc58e&scene=21#wechat_redirect)
 2. [「我是可微分编程的粉丝」，Gary Marcus再回应深度学习批判言论](https://www.jiqizhixin.com/articles/2018-01-15-4)
+3. [微软披露小冰背后的基础框架与核心技术](https://www.jiqizhixin.com/articles/full-duplex-voice-sense)
 
 ## 分词
 1. [分词，新词发现和热词发现](http://blog.csdn.net/smartcat2010/article/details/77883735)
