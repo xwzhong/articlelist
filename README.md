@@ -3,23 +3,11 @@
 2. [「我是可微分编程的粉丝」，Gary Marcus再回应深度学习批判言论](https://www.jiqizhixin.com/articles/2018-01-15-4)
 3. [微软披露小冰背后的基础框架与核心技术](https://www.jiqizhixin.com/articles/full-duplex-voice-sense)
 
-## 分词
-1. [分词，新词发现和热词发现](http://blog.csdn.net/smartcat2010/article/details/77883735)
-2. [有哪些比较好的新词发现方案？](https://www.zhihu.com/question/19650548)
-
 ## tools
 1. [教程 | 如何在TensorFlow中高效使用数据集](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9748800803704015829%22%7D&n_type=1&p_from=3)
 2. [5种快速易用的Python Matplotlib数据可视化方法](https://www.jiqizhixin.com/articles/031310)
 3. [如何在TensorFlow中高效使用数据集](https://www.jiqizhixin.com/articles/03137)
 4. [用 Sacred 追蹤實驗數據](http://city.shaform.com/blog/2017/03/18/run-experiments-with-sacred.html)
-
-## retrieve
-1. [如何在Python中快速进行语料库搜索：近似最近邻算法](https://www.jiqizhixin.com/articles/2018-01-24-3)
-
-## classification
-1. [就喜欢看综述论文：情感分析中的深度学习](https://www.jiqizhixin.com/articles/Deep-Learning-for-Sentiment-Analysis)
-2. [文本情感分析：让机器读懂人类情感](https://www.jiqizhixin.com/articles/2016-07-02)
-3. [How to improve classification of small texts](https://stackoverflow.com/questions/34513634/how-to-improve-classification-of-small-texts)
 
 ## momentum
 1. [【梯度下降法】二：冲量（momentum）的原理与Python实现](http://www.jianshu.com/p/58b3fe300ecb)
@@ -57,9 +45,24 @@
 2. [K-L散度（相对熵）总结](http://blog.csdn.net/code_caq/article/details/71150855)
 3. [如何理解KL散度的不对称性](https://www.jiqizhixin.com/articles/0224)
 4. [从七桥问题开始：全面介绍图论及其应用](https://www.jiqizhixin.com/articles/2018-03-11-2)
+5. [从信息论的角度理解与可视化神经网络](https://www.jiqizhixin.com/articles/2018-04-11-2)
 
 ## 推荐系统
 1. [36氪首发 | 今日头条推荐算法原理全文详解](http://36kr.com/p/5114077.html)
 2. [Netflix个人化推荐系统，让每个用戶看到不一样的电影海报](https://www.jiqizhixin.com/articles/2018-03-12-8)
 3. [机器学习模型的衡量不止准确率，还有精度和召回率](https://www.jiqizhixin.com/articles/2018-03-17-5)
 
+## 分词
+1. [分词，新词发现和热词发现](http://blog.csdn.net/smartcat2010/article/details/77883735)
+2. [有哪些比较好的新词发现方案？](https://www.zhihu.com/question/19650548)
+
+## retrieve
+1. [如何在Python中快速进行语料库搜索：近似最近邻算法](https://www.jiqizhixin.com/articles/2018-01-24-3)
+
+## classification
+1. [就喜欢看综述论文：情感分析中的深度学习](https://www.jiqizhixin.com/articles/Deep-Learning-for-Sentiment-Analysis)
+2. [文本情感分析：让机器读懂人类情感](https://www.jiqizhixin.com/articles/2016-07-02)
+3. [How to improve classification of small texts](https://stackoverflow.com/questions/34513634/how-to-improve-classification-of-small-texts)
+
+## 实体识别
+1. [如何使用深度学习执行文本实体提取](https://www.jiqizhixin.com/articles/entity-recoginition-deep-learning)
