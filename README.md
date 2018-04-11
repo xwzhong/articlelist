@@ -67,9 +67,5 @@
 2. [文本情感分析：让机器读懂人类情感](https://www.jiqizhixin.com/articles/2016-07-02)
 3. [How to improve classification of small texts](https://stackoverflow.com/questions/34513634/how-to-improve-classification-of-small-texts)
 
-## 实体识别
-1. [如何使用深度学习执行文本实体提取](https://www.jiqizhixin.com/articles/entity-recoginition-deep-learning)
-
-
 ## 其它
 1. [学习如何学习的算法：简述元学习研究方向现状](https://www.jiqizhixin.com/articles/2018-04-05-2)
