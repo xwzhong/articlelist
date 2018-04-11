@@ -47,6 +47,9 @@
 4. [从七桥问题开始：全面介绍图论及其应用](https://www.jiqizhixin.com/articles/2018-03-11-2)
 5. [从信息论的角度理解与可视化神经网络](https://www.jiqizhixin.com/articles/2018-04-11-2)
 
+## paper
+1. [可视化CapsNet，详解Hinton等人提出的胶囊概念与原理](https://www.jiqizhixin.com/articles/2018-04-07-3)
+
 ## 推荐系统
 1. [36氪首发 | 今日头条推荐算法原理全文详解](http://36kr.com/p/5114077.html)
 2. [Netflix个人化推荐系统，让每个用戶看到不一样的电影海报](https://www.jiqizhixin.com/articles/2018-03-12-8)
@@ -66,3 +69,7 @@
 
 ## 实体识别
 1. [如何使用深度学习执行文本实体提取](https://www.jiqizhixin.com/articles/entity-recoginition-deep-learning)
+
+
+## 其它
+1. [学习如何学习的算法：简述元学习研究方向现状](https://www.jiqizhixin.com/articles/2018-04-05-2)
