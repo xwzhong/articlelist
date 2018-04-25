@@ -48,6 +48,7 @@
 3. [如何理解KL散度的不对称性](https://www.jiqizhixin.com/articles/0224)
 4. [从七桥问题开始：全面介绍图论及其应用](https://www.jiqizhixin.com/articles/2018-03-11-2)
 5. [从信息论的角度理解与可视化神经网络](https://www.jiqizhixin.com/articles/2018-04-11-2)
+6. [贝叶斯线性回归方法的解释和优点](https://www.jiqizhixin.com/articles/2018-04-25-3)
 
 ## paper
 1. [可视化CapsNet，详解Hinton等人提出的胶囊概念与原理](https://www.jiqizhixin.com/articles/2018-04-07-3)
