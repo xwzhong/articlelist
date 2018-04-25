@@ -23,12 +23,14 @@
 1. [深度学习调参有哪些技巧？](https://www.zhihu.com/question/25097993/answer/153674495)
 2. [ICML 2017最佳论文：为什么你改了一个参数，模型预测率突然提高了|分享总结](https://www.leiphone.com/news/201708/Hbjv7EcuXTYQlLk2.html)
 3. [理解深度学习中的学习率及多种选择策略](https://www.jiqizhixin.com/articles/understanding-learning-rates)
+4. [1cycle策略：实践中的学习率设定应该是先增再降](https://www.jiqizhixin.com/articles/041905)
 
 ## Neural Networks
 1. [CS231n Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/neural-networks-3/)
 2. [专访MIT教授Tomaso Poggio：表达、优化与泛化——数学视角里的深度学习](https://www.jiqizhixin.com/articles/tomaso-poggio)
 3. [DeepMind提出神经元删除法：通过理解每个神经元来理解深度学习](https://www.jiqizhixin.com/articles/032302)
 4. [可视化LSTM网络：探索「记忆」的形成](https://www.jiqizhixin.com/articles/2018-03-31-2)
+5. [一文简述ResNet及其多种变体](https://www.jiqizhixin.com/articles/042201)
 
 ## strategies for optimizing SGD
 1. [Active Learning: 一个降低深度学习时间，空间，经济成本的解决方案](https://www.jiqizhixin.com/articles/2017-09-21-12)
