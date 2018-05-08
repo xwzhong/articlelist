@@ -49,9 +49,11 @@
 4. [从七桥问题开始：全面介绍图论及其应用](https://www.jiqizhixin.com/articles/2018-03-11-2)
 5. [从信息论的角度理解与可视化神经网络](https://www.jiqizhixin.com/articles/2018-04-11-2)
 6. [贝叶斯线性回归方法的解释和优点](https://www.jiqizhixin.com/articles/2018-04-25-3)
+7. [一起读懂传说中的经典：受限玻尔兹曼机](https://www.jiqizhixin.com/articles/2018-05-07-7)
 
 ## paper
 1. [可视化CapsNet，详解Hinton等人提出的胶囊概念与原理](https://www.jiqizhixin.com/articles/2018-04-07-3)
+2. [RNN和LSTM层面的注意力模型](https://www.jiqizhixin.com/articles/2018-05-03-8)[论文](http://www.cs.cmu.edu/~./hovy/papers/16HLT-hierarchical-attention-networks.pdf)
 
 ## 推荐系统
 1. [36氪首发 | 今日头条推荐算法原理全文详解](http://36kr.com/p/5114077.html)
@@ -72,3 +74,4 @@
 
 ## 其它
 1. [学习如何学习的算法：简述元学习研究方向现状](https://www.jiqizhixin.com/articles/2018-04-05-2)
+2. [机器学习时代的哈希算法，将如何更高效地索引数据](https://www.jiqizhixin.com/articles/2018-05-06-3)
