@@ -8,6 +8,7 @@
 2. [5种快速易用的Python Matplotlib数据可视化方法](https://www.jiqizhixin.com/articles/031310)
 3. [如何在TensorFlow中高效使用数据集](https://www.jiqizhixin.com/articles/03137)
 4. [用 Sacred 追蹤實驗數據](http://city.shaform.com/blog/2017/03/18/run-experiments-with-sacred.html)
+5. [tensorflow学习笔记（二十五）：ConfigProto&GPU](https://blog.csdn.net/u012436149/article/details/53837651)
 
 ## momentum
 1. [【梯度下降法】二：冲量（momentum）的原理与Python实现](http://www.jianshu.com/p/58b3fe300ecb)
