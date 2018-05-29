@@ -48,10 +48,11 @@
 1. [为什么KL-divergence 可以用来衡量两个概率分布的不相似性？](http://blog.csdn.net/zhaoyawei09/article/details/52434405)
 2. [K-L散度（相对熵）总结](http://blog.csdn.net/code_caq/article/details/71150855)
 3. [如何理解KL散度的不对称性](https://www.jiqizhixin.com/articles/0224)
-4. [从七桥问题开始：全面介绍图论及其应用](https://www.jiqizhixin.com/articles/2018-03-11-2)
-5. [从信息论的角度理解与可视化神经网络](https://www.jiqizhixin.com/articles/2018-04-11-2)
-6. [贝叶斯线性回归方法的解释和优点](https://www.jiqizhixin.com/articles/2018-04-25-3)
-7. [一起读懂传说中的经典：受限玻尔兹曼机](https://www.jiqizhixin.com/articles/2018-05-07-7)
+4. [初学机器学习：直观解读KL散度的数学概念](https://www.jiqizhixin.com/articles/2018-05-29-2)
+5. [从七桥问题开始：全面介绍图论及其应用](https://www.jiqizhixin.com/articles/2018-03-11-2)
+6. [从信息论的角度理解与可视化神经网络](https://www.jiqizhixin.com/articles/2018-04-11-2)
+7. [贝叶斯线性回归方法的解释和优点](https://www.jiqizhixin.com/articles/2018-04-25-3)
+8. [一起读懂传说中的经典：受限玻尔兹曼机](https://www.jiqizhixin.com/articles/2018-05-07-7)
 
 ## paper
 1. [可视化CapsNet，详解Hinton等人提出的胶囊概念与原理](https://www.jiqizhixin.com/articles/2018-04-07-3)
