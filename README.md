@@ -32,6 +32,7 @@
 3. [DeepMind提出神经元删除法：通过理解每个神经元来理解深度学习](https://www.jiqizhixin.com/articles/032302)
 4. [可视化LSTM网络：探索「记忆」的形成](https://www.jiqizhixin.com/articles/2018-03-31-2)
 5. [一文简述ResNet及其多种变体](https://www.jiqizhixin.com/articles/042201)
+6. [神经语言模型如何利用上下文信息：长距离上下文的词序并不重要](https://www.jiqizhixin.com/articles/2018-06-04-16)
 
 ## strategies for optimizing SGD
 1. [Active Learning: 一个降低深度学习时间，空间，经济成本的解决方案](https://www.jiqizhixin.com/articles/2017-09-21-12)
@@ -64,6 +65,9 @@
 1. [36氪首发 | 今日头条推荐算法原理全文详解](http://36kr.com/p/5114077.html)
 2. [Netflix个人化推荐系统，让每个用戶看到不一样的电影海报](https://www.jiqizhixin.com/articles/2018-03-12-8)
 3. [机器学习模型的衡量不止准确率，还有精度和召回率](https://www.jiqizhixin.com/articles/2018-03-17-5)
+
+## 主题模型
+1. [一文读懂如何用LSA、PSLA、LDA和lda2vec进行主题建模](https://www.jiqizhixin.com/articles/topic-modeling-with-lsa-psla-lda-and-lda2vec)
 
 ## 分词
 1. [分词，新词发现和热词发现](http://blog.csdn.net/smartcat2010/article/details/77883735)
