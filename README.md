@@ -43,6 +43,8 @@
 ## embedding
 1. [词嵌入2017年进展全面梳理：趋势和未来方向](https://www.jiqizhixin.com/articles/2017-10-25-2)
 2. [如何用深度学习处理结构化数据？](https://www.jiqizhixin.com/articles/2017-12-04-7)
+3. [当前最好的词句嵌入技术概览：从无监督学习到监督、多任务学习](https://www.jiqizhixin.com/articles/2018-06-06-4)
+4. [fastText，智慧与美貌并重的文本分类及向量化工具](https://www.jiqizhixin.com/articles/2018-06-05-3)
 
 ## math
 1. [为什么KL-divergence 可以用来衡量两个概率分布的不相似性？](http://blog.csdn.net/zhaoyawei09/article/details/52434405)
