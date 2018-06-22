@@ -10,6 +10,9 @@
 4. [用 Sacred 追蹤實驗數據](http://city.shaform.com/blog/2017/03/18/run-experiments-with-sacred.html)
 5. [tensorflow学习笔记（二十五）：ConfigProto&GPU](https://blog.csdn.net/u012436149/article/details/53837651)
 
+## data
+1. [从文本处理到自动驾驶：机器学习最常用的50大免费数据集](https://www.jiqizhixin.com/articles/the-50-best-free-datasets-for-machine-learning)
+
 ## momentum
 1. [【梯度下降法】二：冲量（momentum）的原理与Python实现](http://www.jianshu.com/p/58b3fe300ecb)
 2. [路遥知马力——Momentum](https://zhuanlan.zhihu.com/p/21486826)
@@ -19,6 +22,9 @@
 1. [一文概览深度学习中的激活函数](https://www.jiqizhixin.com/articles/2017-11-02-26)
 2. [26种神经网络激活函数可视化](https://www.jiqizhixin.com/articles/2017-10-10-3)
 3. [谷歌大脑提出新型激活函数Swish惹争议：可直接替换并优于ReLU？（附机器之心测试）](https://www.jiqizhixin.com/articles/2017-10-21-4)
+
+## loss
+1. [机器学习大牛最常用的5个回归损失函数，你知道几个？](https://www.jiqizhixin.com/articles/2018-06-21-3)
 
 ## 调参
 1. [深度学习调参有哪些技巧？](https://www.zhihu.com/question/25097993/answer/153674495)
@@ -61,6 +67,7 @@
 ## paper
 1. [可视化CapsNet，详解Hinton等人提出的胶囊概念与原理](https://www.jiqizhixin.com/articles/2018-04-07-3)
 2. [RNN和LSTM层面的注意力模型](https://www.jiqizhixin.com/articles/2018-05-03-8)[论文](http://www.cs.cmu.edu/~./hovy/papers/16HLT-hierarchical-attention-networks.pdf)
+3. [DeepMind等机构提出「图网络」：面向关系推理](https://www.jiqizhixin.com/articles/061405)
 
 ## 推荐系统
 1. [36氪首发 | 今日头条推荐算法原理全文详解](http://36kr.com/p/5114077.html)
@@ -85,3 +92,5 @@
 ## 其它
 1. [学习如何学习的算法：简述元学习研究方向现状](https://www.jiqizhixin.com/articles/2018-04-05-2)
 2. [机器学习时代的哈希算法，将如何更高效地索引数据](https://www.jiqizhixin.com/articles/2018-05-06-3)
+3. [小样本学习年度进展|VALSE2018](https://www.jiqizhixin.com/articles/2018-06-20-13)
+
