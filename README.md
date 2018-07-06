@@ -9,6 +9,8 @@
 3. [如何在TensorFlow中高效使用数据集](https://www.jiqizhixin.com/articles/03137)
 4. [用 Sacred 追蹤實驗數據](http://city.shaform.com/blog/2017/03/18/run-experiments-with-sacred.html)
 5. [tensorflow学习笔记（二十五）：ConfigProto&GPU](https://blog.csdn.net/u012436149/article/details/53837651)
+6. [算法太多挑花眼？此文教你如何选择正确的机器学习算法](https://www.jiqizhixin.com/articles/choosing-the-right-machine-learning-algorithm)
+7. [令人困惑的TensorFlow！](https://www.jiqizhixin.com/articles/2018-07-02-6)
 
 ## data
 1. [从文本处理到自动驾驶：机器学习最常用的50大免费数据集](https://www.jiqizhixin.com/articles/the-50-best-free-datasets-for-machine-learning)
