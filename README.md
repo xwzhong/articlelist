@@ -42,6 +42,7 @@
 5. [一文简述ResNet及其多种变体](https://www.jiqizhixin.com/articles/042201)
 6. [神经语言模型如何利用上下文信息：长距离上下文的词序并不重要](https://www.jiqizhixin.com/articles/2018-06-04-16)
 7. [Attention模型方法综述 | 多篇经典论文解读](https://www.jiqizhixin.com/articles/2018-06-11-16)
+8. [NLP领域的ImageNet时代到来：词嵌入「已死」，语言模型当立](https://www.jiqizhixin.com/articles/2018-07-09-9)
 
 ## strategies for optimizing SGD
 1. [Active Learning: 一个降低深度学习时间，空间，经济成本的解决方案](https://www.jiqizhixin.com/articles/2017-09-21-12)
