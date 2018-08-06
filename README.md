@@ -99,5 +99,5 @@
 2. [机器学习时代的哈希算法，将如何更高效地索引数据](https://www.jiqizhixin.com/articles/2018-05-06-3)
 3. [小样本学习年度进展|VALSE2018](https://www.jiqizhixin.com/articles/2018-06-20-13)
 4. [思必驰推出启发式对话系统，关注知识传播的会话精灵](https://www.jiqizhixin.com/articles/2018-07-20-4)
-
+5. [如何改善你的训练数据集？（附案例）](https://www.jiqizhixin.com/articles/2018-08-06-6)
 
