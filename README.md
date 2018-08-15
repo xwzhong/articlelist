@@ -12,6 +12,7 @@
 6. [算法太多挑花眼？此文教你如何选择正确的机器学习算法](https://www.jiqizhixin.com/articles/choosing-the-right-machine-learning-algorithm)
 7. [令人困惑的TensorFlow！](https://www.jiqizhixin.com/articles/2018-07-02-6)
 8. [Python数据分析之numpy](https://www.jiqizhixin.com/articles/2018-07-18-2)
+9. [为什么Python这么慢？](https://www.jiqizhixin.com/articles/2018-08-14-11)
 
 ## data
 1. [从文本处理到自动驾驶：机器学习最常用的50大免费数据集](https://www.jiqizhixin.com/articles/the-50-best-free-datasets-for-machine-learning)
