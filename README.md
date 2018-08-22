@@ -95,6 +95,7 @@
 1. [就喜欢看综述论文：情感分析中的深度学习](https://www.jiqizhixin.com/articles/Deep-Learning-for-Sentiment-Analysis)
 2. [文本情感分析：让机器读懂人类情感](https://www.jiqizhixin.com/articles/2016-07-02)
 3. [How to improve classification of small texts](https://stackoverflow.com/questions/34513634/how-to-improve-classification-of-small-texts)
+4. [How to handle Imbalanced Classification Problems in machine learning?](https://www.analyticsvidhya.com/blog/2017/03/imbalanced-classification-problem/)
 
 ## 其它
 1. [学习如何学习的算法：简述元学习研究方向现状](https://www.jiqizhixin.com/articles/2018-04-05-2)
