@@ -97,6 +97,9 @@
 3. [How to improve classification of small texts](https://stackoverflow.com/questions/34513634/how-to-improve-classification-of-small-texts)
 4. [How to handle Imbalanced Classification Problems in machine learning?](https://www.analyticsvidhya.com/blog/2017/03/imbalanced-classification-problem/)
 
+## python效率
+1. [Cython三分钟入门](https://blog.csdn.net/gzlaiyonghao/article/details/4561611)
+
 ## 其它
 1. [学习如何学习的算法：简述元学习研究方向现状](https://www.jiqizhixin.com/articles/2018-04-05-2)
 2. [机器学习时代的哈希算法，将如何更高效地索引数据](https://www.jiqizhixin.com/articles/2018-05-06-3)
