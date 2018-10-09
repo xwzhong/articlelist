@@ -14,6 +14,7 @@
 8. [Python数据分析之numpy](https://www.jiqizhixin.com/articles/2018-07-18-2)
 9. [为什么Python这么慢？](https://www.jiqizhixin.com/articles/2018-08-14-11)
 10. [自然语言处理是如何工作的？一步步教你构建 NLP 流水线](https://www.jiqizhixin.com/articles/081203)
+11. [正则表达式的功法大全，做NLP再也不怕搞不定字符串了](https://www.jiqizhixin.com/articles/2018-10-09-13)
 
 ## data
 1. [从文本处理到自动驾驶：机器学习最常用的50大免费数据集](https://www.jiqizhixin.com/articles/the-50-best-free-datasets-for-machine-learning)
