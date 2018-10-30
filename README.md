@@ -97,6 +97,7 @@
 2. [文本情感分析：让机器读懂人类情感](https://www.jiqizhixin.com/articles/2016-07-02)
 3. [How to improve classification of small texts](https://stackoverflow.com/questions/34513634/how-to-improve-classification-of-small-texts)
 4. [How to handle Imbalanced Classification Problems in machine learning?](https://www.analyticsvidhya.com/blog/2017/03/imbalanced-classification-problem/)
+5. [中文文本分类：你需要了解的10项关键内容](https://www.jiqizhixin.com/articles/2018-10-29-10)
 
 ## python效率
 1. [Cython三分钟入门](https://blog.csdn.net/gzlaiyonghao/article/details/4561611)
