@@ -71,6 +71,7 @@
 6. [从信息论的角度理解与可视化神经网络](https://www.jiqizhixin.com/articles/2018-04-11-2)
 7. [贝叶斯线性回归方法的解释和优点](https://www.jiqizhixin.com/articles/2018-04-25-3)
 8. [一起读懂传说中的经典：受限玻尔兹曼机](https://www.jiqizhixin.com/articles/2018-05-07-7)
+9. [【原】关于使用sklearn进行数据预处理 —— 归一化/标准化/正则化](https://www.cnblogs.com/chaosimple/p/4153167.html)
 
 ## paper
 1. [可视化CapsNet，详解Hinton等人提出的胶囊概念与原理](https://www.jiqizhixin.com/articles/2018-04-07-3)
