@@ -109,4 +109,5 @@
 3. [小样本学习年度进展|VALSE2018](https://www.jiqizhixin.com/articles/2018-06-20-13)
 4. [思必驰推出启发式对话系统，关注知识传播的会话精灵](https://www.jiqizhixin.com/articles/2018-07-20-4)
 5. [如何改善你的训练数据集？（附案例）](https://www.jiqizhixin.com/articles/2018-08-06-6)
+6. [基于TextRank算法的文本摘要（附Python代码）](https://www.jiqizhixin.com/articles/2018-12-28-18)
 
