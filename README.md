@@ -77,6 +77,7 @@
 1. [可视化CapsNet，详解Hinton等人提出的胶囊概念与原理](https://www.jiqizhixin.com/articles/2018-04-07-3)
 2. [RNN和LSTM层面的注意力模型](https://www.jiqizhixin.com/articles/2018-05-03-8)[论文](http://www.cs.cmu.edu/~./hovy/papers/16HLT-hierarchical-attention-networks.pdf)
 3. [DeepMind等机构提出「图网络」：面向关系推理](https://www.jiqizhixin.com/articles/061405)
+4. [沈向洋等人论文详解微软小冰，公开研发细节](https://www.jiqizhixin.com/articles/2018-12-30-5)
 
 ## 推荐系统
 1. [36氪首发 | 今日头条推荐算法原理全文详解](http://36kr.com/p/5114077.html)
