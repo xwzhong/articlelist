@@ -102,8 +102,9 @@
 4. [How to handle Imbalanced Classification Problems in machine learning?](https://www.analyticsvidhya.com/blog/2017/03/imbalanced-classification-problem/)
 5. [中文文本分类：你需要了解的10项关键内容](https://www.jiqizhixin.com/articles/2018-10-29-10)
 
-## python效率
+## python
 1. [Cython三分钟入门](https://blog.csdn.net/gzlaiyonghao/article/details/4561611)
+2. [Python进阶：切片的误区与高级用法](https://www.jiqizhixin.com/articles/2018-12-29-20)
 
 ## 其它
 1. [学习如何学习的算法：简述元学习研究方向现状](https://www.jiqizhixin.com/articles/2018-04-05-2)
