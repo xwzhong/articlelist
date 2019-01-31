@@ -105,6 +105,7 @@
 ## python
 1. [Cython三分钟入门](https://blog.csdn.net/gzlaiyonghao/article/details/4561611)
 2. [Python进阶：切片的误区与高级用法](https://www.jiqizhixin.com/articles/2018-12-29-20)
+3. [没有什么内存问题，是一行Python代码解决不了的](https://www.jiqizhixin.com/articles/2018-12-17-18)
 
 ## 其它
 1. [学习如何学习的算法：简述元学习研究方向现状](https://www.jiqizhixin.com/articles/2018-04-05-2)
