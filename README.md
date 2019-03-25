@@ -115,4 +115,5 @@
 5. [如何改善你的训练数据集？（附案例）](https://www.jiqizhixin.com/articles/2018-08-06-6)
 6. [基于TextRank算法的文本摘要（附Python代码）](https://www.jiqizhixin.com/articles/2018-12-28-18)
 7. [集成学习算法(Ensemble Method)浅析](https://www.jiqizhixin.com/articles/2018-12-28-11)
+8. [字符级NLP优劣分析：在某些场景中比词向量更好用](https://www.jiqizhixin.com/articles/19032404)
 
