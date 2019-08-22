@@ -25,6 +25,8 @@
 
 ## loss
 1. [机器学习大牛最常用的5个回归损失函数，你知道几个？](https://www.jiqizhixin.com/articles/2018-06-21-3)
+2. [损失函数——Hinge](https://zhuanlan.zhihu.com/p/35708936)
+
 
 ## 激活函数
 1. [一文概览深度学习中的激活函数](https://www.jiqizhixin.com/articles/2017-11-02-26)
